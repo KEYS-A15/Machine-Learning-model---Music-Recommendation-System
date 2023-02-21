@@ -1,1 +1,3 @@
-# Machine-Learning-model---Music-Recommendation-System
+# Music-Recommendation-System
+## Machine Learning Model
+### K-means Algorithm
